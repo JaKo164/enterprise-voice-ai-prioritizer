@@ -1,0 +1,9 @@
+use_case,business_value,implementation_effort,data_readiness,integration_complexity,compliance_risk,executive_sponsorship,time_to_value
+Multilingual customer support voice agent,5,4,4,4,3,5,3
+Appointment booking assistant,4,2,4,2,2,4,2
+Sales call summarization,5,3,4,3,3,5,2
+Training content voice localization,3,2,3,2,2,3,3
+Internal knowledge voice assistant,4,3,3,3,2,4,3
+Proactive service follow-up calls,4,3,4,3,3,4,2
+Claims intake conversational assistant,5,4,3,4,4,5,3
+Voice-enabled field technician support,4,3,3,3,3,4,3
